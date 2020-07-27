@@ -27,3 +27,5 @@ for filename in img_list:
         #paste watermark on pic
         img.paste(watermark, (200, 200),  watermark)
         img.save(filename)
+
+        
