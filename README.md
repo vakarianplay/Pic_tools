@@ -4,6 +4,7 @@
 
 1. Shakalizator (JPEG compressor):
     > Put images in "pic" dir, run script, type compress ratio and press enter. Compressed images see in "out" dir.
+    For best result type ratio 90-100.
     
     >![Sample work](http://woa.aiq.ru/temp/Video_2020-07-27_1255.gif)
     
