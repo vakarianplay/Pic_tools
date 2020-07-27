@@ -19,3 +19,4 @@ for filename in img_list:
         img = Image.open(filename)
         #save with compress
         img.save(outname, "JPEG", quality=sh)
+        
