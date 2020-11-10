@@ -1,3 +1,5 @@
+![alt text](https://img.shields.io/badge/version-python%203.7-blue) ![alt text](https://img.shields.io/badge/pip%20install-pillow-blue) ![alt text](https://img.shields.io/badge/status-worked-brightgreen) 
+
 # Pic tools on Python
 ---------------------
 ## Small tools for images. Worked on Python 3 and highter.
