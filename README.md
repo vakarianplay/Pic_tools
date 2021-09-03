@@ -18,5 +18,5 @@ Don't remember install PIL
     
     
  3. Thumbnail maker
-    > Create thumbnails for all pictures in "img" dir. Еhe default resolution is 128 x 128 pixels. If desired, the resolution can be changed by changing the parameters in the **im_th** variable.
+    > Create thumbnails for all pictures in "img" dir. The default resolution is 128 x 128 pixels. If desired, the resolution can be changed by changing the parameters in the **im_th** variable.
 
